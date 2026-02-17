@@ -1,0 +1,8 @@
+Copyright © 2026 Samuel Jiménez López. All rights reserved.
+
+This software is proprietary and confidential.
+
+Permission is granted to download and install the software for personal use only.
+You may not modify, reverse engineer, redistribute, sublicense, or commercially exploit any part of this software without explicit written permission from the author.
+
+All rights not expressly granted are reserved by the author.
