@@ -61,6 +61,22 @@ GitHub:
 
 ---
 
+## 📦 Releases
+
+Las versiones oficiales de Axion se publican exclusivamente en la sección de Releases de este repositorio.
+
+👉 [View All Releases](https://github.com/Samusk8/AxionLabsDev.git)
+
+Cada release incluye:
+
+- Instalador listo para ejecutar  
+- Notas de versión (changelog)  
+- Número de versión correspondiente  
+
+Se recomienda descargar siempre la versión más reciente para garantizar estabilidad y compatibilidad.
+
+---
+
 ## 📄 Licencia
 
 Copyright © 2026 Samuel Jiménez López.  
