@@ -57,7 +57,7 @@ Desarrollado por **Samuel Jiménez López**
 Patinador artístico sobre ruedas y desarrollador de aplicaciones multiplataforma.
 
 GitHub:  
-👉 https://github.com/TU_USUARIO_AQUI
+👉 https://github.com/samusk8
 
 ---
 
